@@ -23,7 +23,6 @@ The design is organized to clearly separate the hardware logic from the verifica
 
 - `src/`: All VHDL files describing the hardware.
 - `sim/`: All VHDL testbenches and simulation scripts.
-- `mips_core/`: MIPS entity and its testbench.
 
 ## Implemented MIPS Instruction Set
 
