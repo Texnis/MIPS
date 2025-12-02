@@ -37,7 +37,7 @@ This MIPS processor supports the following specific instruction subset, as detai
 | and         | 000000 | 100100 | Bitwise AND              |
 | or          | 000000 | 100101 | Bitwise OR               |
 | slt         | 000000 | 101010 | Set on Less Than         |
-| sll/srl     | 000000 | -      | Shift Left/Right Logical |
+| sll/srl     | 000000 | 000010 | Shift Left/Right Logical |
 
 ### I-Type (Immediate & Data Transfer)
 
